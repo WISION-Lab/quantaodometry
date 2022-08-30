@@ -1,0 +1,14 @@
+imageio
+ipywidgets
+networkx
+shapely
+torch
+torchgeometry
+torchvision
+matplotlib
+scipy
+more_itertools
+tqdm
+compress_pickle
+sqlitedict
+natsort
