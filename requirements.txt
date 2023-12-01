@@ -10,5 +10,6 @@ scipy
 more_itertools
 tqdm
 compress_pickle
+opencv-python
 sqlitedict
 natsort
